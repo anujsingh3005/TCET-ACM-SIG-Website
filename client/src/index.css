@@ -66,3 +66,14 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+
+html,body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* @media (max-width:640px){
+  body{
+    overflow-x: hidden;
+  }
+} */
